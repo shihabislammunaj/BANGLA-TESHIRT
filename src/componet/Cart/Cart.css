@@ -1,0 +1,23 @@
+.sumary{
+    border: 10px dotted khaki;
+    border-radius: 5px;
+    background-color: chocolate;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color:  red;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color:purple;
+}
+.bold{
+    font-weight: bold;
+}
